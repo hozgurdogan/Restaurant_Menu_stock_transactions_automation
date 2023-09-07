@@ -1,0 +1,2 @@
+10,Mevsim Salatası,Salata,95
+3,Revani,Tatlı,85

@@ -1,0 +1,90 @@
+Yemek Adı: Sebzeli Pilav
+Malzemeler:
+- Domates
+- Biber
+- Soğan
+
+Yemek Adı: Tavuklu Pilav
+Malzemeler:
+- Pirinç
+- Tavuk Göğsü
+- Sarımsak
+
+Yemek Adı: Yoğurtlu Kıymalı Makarna
+Malzemeler:
+- Kıyma
+- Yoğurt
+- Nane
+
+Yemek Adı: Mercimek Çorbası
+Malzemeler:
+- Mercimek
+- Un
+- Zeytinyağı
+
+Yemek Adı: Tavuklu Bulgur Pilavı
+Malzemeler:
+- Tavuk Göğsü
+- Bulgur
+- Maydanoz
+
+Yemek Adı: Sebzeli Nohut Pilavı
+Malzemeler:
+- Patates
+- Havuç
+- Bezelye
+
+Yemek Adı: Izgara Balık
+Malzemeler:
+- Balık
+- Ispanak
+- Limon
+
+Yemek Adı: Kuzu Tandır
+Malzemeler:
+- Kuzu Et
+- Patlıcan
+- Yoğurt
+
+Yemek Adı: Makarna Bolognese
+Malzemeler:
+- Makarna
+- Kıyma
+- Domates
+
+Yemek Adı: Tavuklu Sebzeli Karışık
+Malzemeler:
+- Tavuk Göğsü
+- Sebzeler
+- Sos
+
+Yemek Adı: Etli Patates
+Malzemeler:
+- Kırmızı Et
+- Patates
+- Soğan
+
+Yemek Adı: Dana Kavurmalı Pilav
+Malzemeler:
+- Dana Kavurma
+- Pirinç
+- Sarımsak
+
+Yemek Adı: Tavuklu Mantar Sote
+Malzemeler:
+- Mantar
+- Tavuk Göğsü
+- Nane
+
+Yemek Adı: Patatesli Köfte
+Malzemeler:
+- Köfte
+- Patates
+- Yoğurt
+
+Yemek Adı: Tavuk Kanatlı Patates
+Malzemeler:
+- Tavuk Kanat
+- Patates
+- Ketçap
+

@@ -1,0 +1,14 @@
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.Form1.resources
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.Menucs.resources
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.Properties.Resources.resources
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\bin\Debug\YazOdeviDeneme2.exe.config
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\bin\Debug\YazOdeviDeneme2.exe
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\bin\Debug\YazOdeviDeneme2.pdb
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.exe
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.pdb
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.Siparis.resources
+C:\Users\hasan\source\repos\YazOdeviDeneme2\YazOdeviDeneme2\obj\Debug\YazOdeviDeneme2.MalzemeIslemleri.resources

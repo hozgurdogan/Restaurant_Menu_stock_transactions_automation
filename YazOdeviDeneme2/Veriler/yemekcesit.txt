@@ -1,0 +1,30 @@
+Yemek Adı: Sebzeli Pilav | Fiyatı: 40
+
+Yemek Adı: Tavuklu Pilav | Fiyatı: 50
+
+Yemek Adı: Yoğurtlu Kıymalı Makarna | Fiyatı: 35
+
+Yemek Adı: Mercimek Çorbası | Fiyatı: 30
+
+Yemek Adı: Tavuklu Bulgur Pilavı | Fiyatı: 45
+
+Yemek Adı: Sebzeli Nohut Pilavı | Fiyatı: 35
+
+Yemek Adı: Izgara Balık | Fiyatı: 55
+
+Yemek Adı: Kuzu Tandır | Fiyatı: 70
+
+Yemek Adı: Makarna Bolognese | Fiyatı: 40
+
+Yemek Adı: Tavuklu Sebzeli Karışık | Fiyatı: 60
+
+Yemek Adı: Etli Patates | Fiyatı: 55
+
+Yemek Adı: Dana Kavurmalı Pilav | Fiyatı: 70
+
+Yemek Adı: Tavuklu Mantar Sote | Fiyatı: 40
+
+Yemek Adı: Patatesli Köfte | Fiyatı: 60
+
+Yemek Adı: Tavuk Kanatlı Patates | Fiyatı: 55
+

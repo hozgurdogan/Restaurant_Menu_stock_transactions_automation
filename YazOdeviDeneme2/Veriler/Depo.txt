@@ -1,0 +1,31 @@
+Ürün Adı: Domates Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 20 Stok Adet: -33 Fiyat: 3 TL
+Ürün Adı: Biber Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 15 Stok Adet: -15 Fiyat: 2 TL
+Ürün Adı: Soğan Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.11.2023 Kalori (gram): 10 Stok Adet: -33 Fiyat: 1 TL
+Ürün Adı: Pirinç Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.09.2025 Kalori (gram): 100 Stok Adet: -40 Fiyat: 5 TL
+Ürün Adı: Tavuk Göğsü Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.12.2023 Kalori (gram): 150 Stok Adet: -65 Fiyat: 12 TL
+Ürün Adı: Sarımsak Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.01.2024 Kalori (gram): 5 Stok Adet: -40 Fiyat: 1 TL
+Ürün Adı: Kıyma Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.03.2024 Kalori (gram): 1000 Stok Adet: -28 Fiyat: 25 TL
+Ürün Adı: Yoğurt Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.11.2023 Kalori (gram): 50 Stok Adet: -35 Fiyat: 3 TL
+Ürün Adı: Nane Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 5 Stok Adet: -22 Fiyat: 1 TL
+Ürün Adı: Mercimek Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.09.2024 Kalori (gram): 200 Stok Adet: -25 Fiyat: 4 TL
+Ürün Adı: Un Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.09.2026 Kalori (gram): 500 Stok Adet: -25 Fiyat: 2 TL
+Ürün Adı: Zeytinyağı Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.03.2024 Kalori (gram): 10 Stok Adet: -25 Fiyat: 8 TL
+Ürün Adı: Bulgur Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.09.2025 Kalori (gram): 300 Stok Adet: -18 Fiyat: 4 TL
+Ürün Adı: Maydanoz Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 5 Stok Adet: -18 Fiyat: 1 TL
+Ürün Adı: Patates Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.11.2023 Kalori (gram): 30 Stok Adet: -60 Fiyat: 2 TL
+Ürün Adı: Havuç Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.11.2023 Kalori (gram): 20 Stok Adet: -12 Fiyat: 1 TL
+Ürün Adı: Bezelye Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 10 Stok Adet: -12 Fiyat: 3 TL
+Ürün Adı: Balık Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.12.2023 Kalori (gram): 120 Stok Adet: -15 Fiyat: 15 TL
+Ürün Adı: Ispanak Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 25 Stok Adet: -15 Fiyat: 3 TL
+Ürün Adı: Limon Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 5 Stok Adet: -15 Fiyat: 2 TL
+Ürün Adı: Kuzu Et Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.12.2023 Kalori (gram): 300 Stok Adet: -10 Fiyat: 18 TL
+Ürün Adı: Patlıcan Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.11.2023 Kalori (gram): 15 Stok Adet: -10 Fiyat: 2 TL
+Ürün Adı: Makarna Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.09.2025 Kalori (gram): 200 Stok Adet: -18 Fiyat: 5 TL
+Ürün Adı: Sebzeler Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 50 Stok Adet: -15 Fiyat: 3 TL
+Ürün Adı: Sos Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 5 Stok Adet: -15 Fiyat: 2 TL
+Ürün Adı: Kırmızı Et Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.12.2023 Kalori (gram): 400 Stok Adet: -18 Fiyat: 20 TL
+Ürün Adı: Dana Kavurma Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.12.2023 Kalori (gram): 350 Stok Adet: -20 Fiyat: 22 TL
+Ürün Adı: Mantar Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.11.2023 Kalori (gram): 25 Stok Adet: -12 Fiyat: 4 TL
+Ürün Adı: Köfte Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.01.2024 Kalori (gram): 250 Stok Adet: -15 Fiyat: 18 TL
+Ürün Adı: Tavuk Kanat Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.12.2023 Kalori (gram): 180 Stok Adet: -15 Fiyat: 10 TL
+Ürün Adı: Ketçap Üretim Tarihi: 07.09.2023 Son Kullanma Tarihi: 07.10.2023 Kalori (gram): 10 Stok Adet: -15 Fiyat: 5 TL

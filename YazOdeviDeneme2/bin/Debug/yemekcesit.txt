@@ -1,0 +1,5 @@
+Yemek Adı: mezelergibi
+Fiyatı: 23
+Ürünler:
+- üüğ | Fiyat: 3 |%
+
